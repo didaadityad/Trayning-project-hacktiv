@@ -1,0 +1,5 @@
+npx sequelize model:create --name Profile --attributes fullName:string,gender:string,age:integer
+
+npx sequelize model:create --name Category --attributes categoryName:string
+
+npx sequelize model:create --name UsersCourse --attributes UserId:integer,CourseId:integer
