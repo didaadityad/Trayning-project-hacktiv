@@ -1,0 +1,32 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/diomeiwandany/trayning.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "main"]
+	remote = origin
+	merge = refs/heads/main
+	github-pr-base-branch = "diomeiwandany#trayning#start-backend"
+	vscode-merge-base = origin/main
+[branch "Add-Modeling-Profile-Category"]
+	github-pr-base-branch = "diomeiwandany#trayning#main"
+[branch "migration-profile-course"]
+	github-pr-base-branch = "diomeiwandany#trayning#main"
+[branch "association"]
+	github-pr-base-branch = "diomeiwandany#trayning#main"
+[branch "start-backend"]
+	remote = origin
+	merge = refs/heads/start-backend
+	github-pr-base-branch = "diomeiwandany#trayning#main"
+[branch "progress-adit"]
+	github-pr-base-branch = "diomeiwandany#trayning#main"
+[branch "register"]
+	github-pr-base-branch = "diomeiwandany#trayning#main"
+	vscode-merge-base = origin/main
+[branch "adit-readcourse"]
+	github-pr-base-branch = "diomeiwandany#trayning#main"

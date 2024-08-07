@@ -1,0 +1,36 @@
+0000000000000000000000000000000000000000 0a447290d0e079158ee3d0a178017afd43fdf4f2 didaadityad <dddtydrmwn@gmail.com> 1716457971 +0700	clone: from https://github.com/diomeiwandany/trayning.git
+0a447290d0e079158ee3d0a178017afd43fdf4f2 0a447290d0e079158ee3d0a178017afd43fdf4f2 didaadityad <dddtydrmwn@gmail.com> 1716458064 +0700	checkout: moving from main to Add-Modeling-Profile-Category
+0a447290d0e079158ee3d0a178017afd43fdf4f2 115c7a655f4883a427c8c03cc00f54613c57d2ff didaadityad <dddtydrmwn@gmail.com> 1716458436 +0700	commit: AMD: Add Model Profile Category
+115c7a655f4883a427c8c03cc00f54613c57d2ff 0a447290d0e079158ee3d0a178017afd43fdf4f2 didaadityad <dddtydrmwn@gmail.com> 1716458447 +0700	checkout: moving from Add-Modeling-Profile-Category to main
+0a447290d0e079158ee3d0a178017afd43fdf4f2 115c7a655f4883a427c8c03cc00f54613c57d2ff didaadityad <dddtydrmwn@gmail.com> 1716458475 +0700	merge Add-Modeling-Profile-Category: Fast-forward
+115c7a655f4883a427c8c03cc00f54613c57d2ff 115c7a655f4883a427c8c03cc00f54613c57d2ff didaadityad <dddtydrmwn@gmail.com> 1716458828 +0700	checkout: moving from main to migration-profile-course
+115c7a655f4883a427c8c03cc00f54613c57d2ff a2678af5565fd4509fefea9f80b163946b10996c didaadityad <dddtydrmwn@gmail.com> 1716459938 +0700	commit: AMI: Add migration FK profile course
+a2678af5565fd4509fefea9f80b163946b10996c 115c7a655f4883a427c8c03cc00f54613c57d2ff didaadityad <dddtydrmwn@gmail.com> 1716459948 +0700	checkout: moving from migration-profile-course to main
+115c7a655f4883a427c8c03cc00f54613c57d2ff a2678af5565fd4509fefea9f80b163946b10996c didaadityad <dddtydrmwn@gmail.com> 1716459975 +0700	merge migration-profile-course: Fast-forward
+a2678af5565fd4509fefea9f80b163946b10996c a2678af5565fd4509fefea9f80b163946b10996c didaadityad <dddtydrmwn@gmail.com> 1716460680 +0700	reset: moving to HEAD
+a2678af5565fd4509fefea9f80b163946b10996c 6abc15b727282b3fbc2af341d2aa6dd9f871f873 didaadityad <dddtydrmwn@gmail.com> 1716460688 +0700	pull: Fast-forward
+6abc15b727282b3fbc2af341d2aa6dd9f871f873 7cf0de350da2167f1c43ccf13e428e14f1a80097 didaadityad <dddtydrmwn@gmail.com> 1716460788 +0700	commit: GI: fix gitignore
+7cf0de350da2167f1c43ccf13e428e14f1a80097 7cf0de350da2167f1c43ccf13e428e14f1a80097 didaadityad <dddtydrmwn@gmail.com> 1716483068 +0700	checkout: moving from main to association
+7cf0de350da2167f1c43ccf13e428e14f1a80097 0efc825f89efa620edabde2b0b03198bca4feb87 didaadityad <dddtydrmwn@gmail.com> 1716490281 +0700	commit: AMD: userscourses | AMI: create userscourse | AD: category,course,profiles,users,userscourses | SE: category,course,profiles,users,userscourses
+0efc825f89efa620edabde2b0b03198bca4feb87 7cf0de350da2167f1c43ccf13e428e14f1a80097 didaadityad <dddtydrmwn@gmail.com> 1716490310 +0700	checkout: moving from association to main
+7cf0de350da2167f1c43ccf13e428e14f1a80097 0efc825f89efa620edabde2b0b03198bca4feb87 didaadityad <dddtydrmwn@gmail.com> 1716490323 +0700	merge association: Fast-forward
+0efc825f89efa620edabde2b0b03198bca4feb87 0efc825f89efa620edabde2b0b03198bca4feb87 didaadityad <dddtydrmwn@gmail.com> 1716490746 +0700	checkout: moving from main to start-backend
+0efc825f89efa620edabde2b0b03198bca4feb87 0efc825f89efa620edabde2b0b03198bca4feb87 didaadityad <dddtydrmwn@gmail.com> 1716492021 +0700	checkout: moving from start-backend to main
+0efc825f89efa620edabde2b0b03198bca4feb87 731f2f8f5faa52a7b0e5fe7bf74aef0d72ddd27f didaadityad <dddtydrmwn@gmail.com> 1716492029 +0700	pull: Fast-forward
+731f2f8f5faa52a7b0e5fe7bf74aef0d72ddd27f 0efc825f89efa620edabde2b0b03198bca4feb87 didaadityad <dddtydrmwn@gmail.com> 1716492063 +0700	checkout: moving from main to start-backend
+0efc825f89efa620edabde2b0b03198bca4feb87 731f2f8f5faa52a7b0e5fe7bf74aef0d72ddd27f didaadityad <dddtydrmwn@gmail.com> 1716496333 +0700	checkout: moving from start-backend to main
+731f2f8f5faa52a7b0e5fe7bf74aef0d72ddd27f 33fc783e6aec250a530ba3e0b24c2e4cae7e3dc3 didaadityad <dddtydrmwn@gmail.com> 1716496374 +0700	pull: Fast-forward
+33fc783e6aec250a530ba3e0b24c2e4cae7e3dc3 33fc783e6aec250a530ba3e0b24c2e4cae7e3dc3 didaadityad <dddtydrmwn@gmail.com> 1716496696 +0700	checkout: moving from main to progress-adit
+33fc783e6aec250a530ba3e0b24c2e4cae7e3dc3 58a3f857721be48e9eee19458c9de1f77a8d2252 didaadityad <dddtydrmwn@gmail.com> 1716497649 +0700	commit: CF: create home.ejs
+58a3f857721be48e9eee19458c9de1f77a8d2252 33fc783e6aec250a530ba3e0b24c2e4cae7e3dc3 didaadityad <dddtydrmwn@gmail.com> 1716497672 +0700	checkout: moving from progress-adit to main
+33fc783e6aec250a530ba3e0b24c2e4cae7e3dc3 58a3f857721be48e9eee19458c9de1f77a8d2252 didaadityad <dddtydrmwn@gmail.com> 1716497685 +0700	merge progress-adit: Fast-forward
+58a3f857721be48e9eee19458c9de1f77a8d2252 8cf8aaa567f658daea47a354c4fca06f73e7d7c8 didaadityad <dddtydrmwn@gmail.com> 1716498720 +0700	pull: Fast-forward
+8cf8aaa567f658daea47a354c4fca06f73e7d7c8 8cf8aaa567f658daea47a354c4fca06f73e7d7c8 didaadityad <dddtydrmwn@gmail.com> 1716499747 +0700	checkout: moving from main to register
+8cf8aaa567f658daea47a354c4fca06f73e7d7c8 6fcc212b65d1cfe4a06527774d29b867d824272f didaadityad <dddtydrmwn@gmail.com> 1716502703 +0700	commit: AV: create views | AP: form css
+6fcc212b65d1cfe4a06527774d29b867d824272f 8cf8aaa567f658daea47a354c4fca06f73e7d7c8 didaadityad <dddtydrmwn@gmail.com> 1716502714 +0700	checkout: moving from register to main
+8cf8aaa567f658daea47a354c4fca06f73e7d7c8 6fcc212b65d1cfe4a06527774d29b867d824272f didaadityad <dddtydrmwn@gmail.com> 1716502721 +0700	merge register: Fast-forward
+6fcc212b65d1cfe4a06527774d29b867d824272f 6fcc212b65d1cfe4a06527774d29b867d824272f didaadityad <dddtydrmwn@gmail.com> 1716504637 +0700	checkout: moving from main to adit-readcourse
+6fcc212b65d1cfe4a06527774d29b867d824272f 5e1f0ef29d80231723ca81b44cb5fab98be2c3ec Dida Aditya Darmawan <dddtydrmwn@gmail.com> 1716516170 +0700	commit: CB: Controller | CF: form, course detail, course | AH: Helpers
+5e1f0ef29d80231723ca81b44cb5fab98be2c3ec 6fcc212b65d1cfe4a06527774d29b867d824272f Dida Aditya Darmawan <dddtydrmwn@gmail.com> 1716516178 +0700	checkout: moving from adit-readcourse to main
+6fcc212b65d1cfe4a06527774d29b867d824272f 5e1f0ef29d80231723ca81b44cb5fab98be2c3ec Dida Aditya Darmawan <dddtydrmwn@gmail.com> 1716516190 +0700	merge adit-readcourse: Fast-forward
+5e1f0ef29d80231723ca81b44cb5fab98be2c3ec db7e0ec32ccf3a4a74882bdd785898cd7d3a4393 Dida Aditya Darmawan <dddtydrmwn@gmail.com> 1716519172 +0700	pull: Fast-forward
